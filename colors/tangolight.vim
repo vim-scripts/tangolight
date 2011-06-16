@@ -35,7 +35,7 @@ highlight Question        guifg=#73D216
 highlight StatusLine      gui=reverse
 highlight StatusLineNC    gui=reverse
 highlight VertSplit       gui=reverse
-highlight Title           guifg=#34E2E2
+highlight Title           guifg=#AD7FA8
 " highlight Visual          term=reverse cterm=reverse guibg=#D3D7CF
 highlight Visual          guibg=#7E7E7E
 highlight VisualNOS       gui=underline
@@ -46,17 +46,17 @@ highlight WildMenu        guifg=#2E3436 guibg=#EDD400
 hi Folded guibg=black guifg=grey40 ctermfg=grey ctermbg=darkgrey
 hi FoldColumn guibg=black guifg=grey20 ctermfg=4 ctermbg=7
 highlight DiffAdd         guibg=#729FCF
-highlight DiffChange      guibg=#34E2E2
-highlight DiffDelete      guifg=#729FCF guibg=#34E2E2
+highlight DiffChange      guibg=#AD7FA8
+highlight DiffDelete      guifg=#729FCF guibg=#AD7FA8
 highlight DiffText        guibg=#ef2929
 highlight SignColumn      guifg=#000000 guibg=#D3D7CF
 highlight SpellBad        gui=undercurl guisp=#ef2929
 highlight SpellCap        gui=undercurl guisp=#729FCF
-highlight SpellRare       gui=undercurl guisp=#34E2E2
-highlight SpellLocal      gui=undercurl guisp=#34E2E2
-highlight Pmenu           guibg=#34E2E2 guifg=#000000
+highlight SpellRare       gui=undercurl guisp=#AD7FA8
+highlight SpellLocal      gui=undercurl guisp=#AD7FA8
+highlight Pmenu           guibg=#AD7FA8 guifg=#000000
 highlight PmenuSel        guibg=#D3D7CF guifg=#000000
-highlight PmenuSbar       guibg=#34E2E2
+highlight PmenuSbar       guibg=#AD7FA8
 highlight PmenuThumb      gui=reverse
 highlight TabLine         gui=underline guibg=#D3D7CF guifg=#000000
 "highlight TabLineSel      gui=bold
@@ -65,15 +65,15 @@ highlight CursorColumn    guibg=#D3D7CF guifg=#000000
 highlight CursorLine      guibg=#D3D7CF guifg=#000000
 highlight Cursor          guifg=bg guibg=fg
 highlight lCursor         guifg=bg guibg=fg
-highlight MatchParen      guibg=#34E2E2
+highlight MatchParen      guibg=#AD7FA8
 hi Comment         guifg=#729FCF
 hi Constant        guifg=#ef2929
-hi Special         guifg=#34E2E2
+hi Special         guifg=#AD7FA8
 highlight Identifier      guifg=#34E2E2
 hi Statement       guifg=#EDD400
-hi PreProc         guifg=#34E2E2
+hi PreProc         guifg=#AD7FA8
 hi Type            guifg=#73D216
-hi Underlined      gui=underline guifg=#34E2E2
+hi Underlined      gui=underline guifg=#AD7FA8
 hi Ignore          guifg=#2E3436
 hi Error           guifg=#D3D7CF guibg=#ef2929
 highlight Todo     guifg=Blue guibg=Yellow 
